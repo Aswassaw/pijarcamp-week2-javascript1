@@ -62,6 +62,7 @@ const ipa = 69
 ```
 
 Output:
+
 ```bash
 Rata-rata = 82
 Grade = B
@@ -100,7 +101,9 @@ Output:
 Data harus number
 ```
 
-4. Dari data dibawah ini
+---
+
+4.Dari data dibawah ini
 
 ```javascript
 let data = {
