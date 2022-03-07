@@ -38,9 +38,7 @@ if (mtk && bahasaIndonesia && bahasaInggris && ipa) {
         console.log("Grade = E");
       }
     } else {
-      console.log(
-        "Semua nilai yang diinput tidak boleh lebih dari 100 dan kurang dari 0!"
-      );
+      console.log("Semua nilai yang diinput tidak boleh lebih dari 100 dan kurang dari 0!");
     }
   } else {
     console.log("Semua nilai yang diinput harus bertipe number!");

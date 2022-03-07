@@ -1,7 +1,7 @@
 const biodata = {
   name: "Andry Pebrianto",
   age: 19,
-  hobbies: ["Playing Game", "Writing Story", "Coding"],
+  hobbies: ["Bermain Game", "Membaca Cerita", "Ngoding"],
   isMarried: false,
   schoolList: [
     {
@@ -20,7 +20,7 @@ const biodata = {
       name: "SMKN 2 Trenggalek",
       yearIn: "2018",
       yearOut: "2021",
-      major: "Software Engineering",
+      major: "Rekayasa Perangkat Lunak",
     },
   ],
   skills: [
