@@ -16,7 +16,7 @@ let data = {
 const newData = {
   name: "Andry Pebrianto",
   email: "andrypeb227@gmail.com",
-  hobbies: ["Playing Game", "Writing Story", "Coding"],
+  hobbies: ["Bermain Game", "Membaca Cerita", "Ngoding"],
 };
 
 data = {
