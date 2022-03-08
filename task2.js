@@ -38,11 +38,11 @@ if (mtk && bahasaIndonesia && bahasaInggris && ipa) {
         console.log("Grade = E");
       }
     } else {
-      console.log("Semua nilai yang diinput tidak boleh lebih dari 100 dan kurang dari 0!");
+      console.error("Semua nilai yang diinput tidak boleh lebih dari 100 dan kurang dari 0!");
     }
   } else {
-    console.log("Semua nilai yang diinput harus bertipe number!");
+    console.error("Semua nilai yang diinput harus bertipe number!");
   }
 } else {
-  console.log("Semua nilai mata pelajaran harus diinput!");
+  console.error("Semua nilai mata pelajaran harus diinput!");
 }

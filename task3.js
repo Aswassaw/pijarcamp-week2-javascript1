@@ -8,7 +8,7 @@ if (typeof printSegitiga === "number") {
     console.log("");
   }
 } else {
-  console.log("Data harus number");
+  console.error("Data harus number");
 }
 
 // i = 1
