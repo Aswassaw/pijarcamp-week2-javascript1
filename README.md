@@ -4,7 +4,7 @@ Tugas Bootcamp Pijar Camp Minggu Kedua Materi Javascript 1.
 
 ## Soal
 
-1.Buat variabel dengan nama biodata dan tipe data object dengan value dan tipe data
+1. Buat variabel dengan nama biodata dan tipe data object dengan value dan tipe data
 sebagai berikut:
 
 ● name (string)
@@ -35,7 +35,7 @@ const biodata = {
 
 ---
 
-2.Buat program yang menghitung rata-rata UN beserta gradenya, dengan mengisi 4
+2. Buat program yang menghitung rata-rata UN beserta gradenya, dengan mengisi 4
 nilai yakni Bahasa indonesia, Bahasa Inggris Matematika dan IPA, yang di dalam
 program tersebut memiliki validasi yaitu semua nilai tersebut harus diisi, dan juga
 untuk grade memiliki kondisi dengan ketentuan sebagai berikut:
@@ -70,7 +70,7 @@ Grade = B
 
 ---
 
-3.Buatlah program yang memiliki satu variabel dengan nama `printSegitiga` yg berisi
+3. Buatlah program yang memiliki satu variabel dengan nama `printSegitiga` yg berisi
 tipe data number yang menghasilkan output segitiga terbalik yang berisi angka
 
 Contoh:
@@ -103,7 +103,7 @@ Data harus number
 
 ---
 
-4.Dari data dibawah ini
+4. Dari data dibawah ini
 
 ```javascript
 let data = {
